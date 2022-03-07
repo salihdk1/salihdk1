@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Salih
-- 👀 I’m interested in crypto.
-- 🌱 I’m currently learning Solidity
 - 📫 How to reach me ig: @salih.dk1 tw: @salih_dk 
 
 <!---
